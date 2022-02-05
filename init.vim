@@ -47,7 +47,7 @@ Plug 'gruvbox-community/gruvbox'
 call plug#end()
 
 "alternativt nightfox
-colorscheme gruvbox
+colorscheme nightfox
 "highlight Normal guibg=none
 
 "remaps mode lhs rhs
